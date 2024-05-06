@@ -1,5 +1,5 @@
-Sai sharmili 
-RA2111003011024
+Y.Vijayaram
+RA2111003010232
 
 **Disease Prediction from Symptoms**
 -------------------------------------
